@@ -6,16 +6,17 @@ ipconfig /all
 ```
 On Windows terminal.
 If Output looks like this:
-![alt text](https://github.com/rhshourav/DHCP-Fix/Img/Problem_hint_1.png?raw=true)
+
+![alt text](https://github.com/rhshourav/DHCP-Fix/blob/main/Img/Problem_hint_1.png?raw=true)
 
 Or From Control Panel Network Status:
 
-![alt text](https://github.com/rhshourav/DHCP-Fix/Img/Problem_hint_1.2.png?raw=true)
+![alt text](https://github.com/rhshourav/DHCP-Fix/blob/main/Img/Problem_hint_1.2.png?raw=true)
 
 Or Showing Multiple Network After Removing and Inserting Ethernet.
 Like:
 
-![alt text](https://github.com/rhshourav/DHCP-Fix/Img/Problem_hint_1.2.png?raw=true)
+![alt text](https://github.com/rhshourav/DHCP-Fix/blob/main/Img/Problem_hint_2.png?raw=true)
 
 
 ## Tested
