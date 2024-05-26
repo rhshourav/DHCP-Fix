@@ -57,7 +57,7 @@ Just simply press any key to restart your PC.
 If the problem is not solved your firewall or ISP maybe has misconfiguration. Check those.
 
 
-## Tested
+## Tested On
 ```
 WINDOWS 10 PRO
 WINDOWS 10 HOME
