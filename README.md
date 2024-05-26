@@ -26,7 +26,7 @@ Like:
 #### Clone Repository
 ```
 git clone https://github.com/rhshourav/DHCP-Fix.git
-
+```
 2. Run Disable DHCP Client.cmd As Administrator.
 
 3. Input the Idx Number Of Ethernet.
