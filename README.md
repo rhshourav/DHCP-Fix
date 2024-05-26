@@ -49,7 +49,7 @@ Press ANY KEY to Restart Your PC.
 
 6. After Restart If Network Problem Resolved . Then Run Enable DHCP Client.cmd  As Administrator.
 
-7. It ask of another Restart.
+7. It ask for another Restart.
 
 ![alt text](https://github.com/rhshourav/DHCP-Fix/blob/main/Img/Enable_1.png?raw=true)
 
